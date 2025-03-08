@@ -18,7 +18,7 @@
 </a>
 
 - 🔭 I’m currently working in <a href="https://ivosights.com/" target="blank">Ivosights</a>
-- 🌱 I’m currently Working as Engineer Manager
+- 🌱 I’m currently Working as Head of Engineering
 - 🤝 I’m available for freelancing.
 - 🌱 I’m currently learning Golang <a href="https://github.com/penadidik/Golang-MicroService" target="blank">Golang-MicroService</a>
 - 📝 I regularly write articles on [https://penadidik.my.id/news](https://penadidik.my.id/news))
